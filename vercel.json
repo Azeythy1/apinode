@@ -9,7 +9,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "API/log.json"
+            "dest": "API/vercel.json"
         }
     ]
 }
